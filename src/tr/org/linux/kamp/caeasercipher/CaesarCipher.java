@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package caeasercipher;
+package tr.org.linux.kamp.caeasercipher;
 
 import java.util.Scanner;
 
